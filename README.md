@@ -1,8 +1,3 @@
----
-layout: default
----
-
-{% include head.html %}
 
 # DaMoney
 
